@@ -1,3 +1,3 @@
-module github.com/martinlobe/swaggerui
+module github.com/martinlobe/swaggerui/v5
 
-go 1.16
+go 1.22
