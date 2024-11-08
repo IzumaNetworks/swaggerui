@@ -12,7 +12,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/martinlobe/swaggerui"
+	"go.izuma.io/swaggerui"
 )
 
 //go:embed swagger.json
